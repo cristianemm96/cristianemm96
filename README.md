@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Cristian Mariño, or @cristianemm96
-- 👀 I’m interested in Full Stack Development
+- 👋 Hi, I’m Cristian,  and i'm training to be a full stack developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianemm96&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
