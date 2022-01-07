@@ -5,7 +5,7 @@
 ### My stats :bar_chart:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianemm96&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Langs :keyboard:
+### Languages :keyboard:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianemm96&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can find me at
