@@ -17,4 +17,4 @@
 
 ## Language statistics
 
-<img src="https://wakatime.com/share/@b8fb2471-1ce1-47db-a9aa-8f9d41b0d884/e663fbc5-6a47-40dc-9d79-e159d98270cc.svg" height:400px>
+<img src="https://wakatime.com/share/@b8fb2471-1ce1-47db-a9aa-8f9d41b0d884/e663fbc5-6a47-40dc-9d79-e159d98270cc.svg" height:120px>
