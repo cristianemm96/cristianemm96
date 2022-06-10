@@ -1,5 +1,3 @@
-<p align="center">
-
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I’m Cristian, and I'm training to be a full stack developer :weight_lifting_man:
@@ -19,5 +17,6 @@
 
 ## Language statistics
 
-<img src="https://wakatime.com/share/@b8fb2471-1ce1-47db-a9aa-8f9d41b0d884/d470635b-9507-4ed6-9942-1a97352bcac5.svg" height="400"/>
-</p>
+
+<img align="center" src="https://wakatime.com/share/@b8fb2471-1ce1-47db-a9aa-8f9d41b0d884/d470635b-9507-4ed6-9942-1a97352bcac5.svg" height="400"/>
+
