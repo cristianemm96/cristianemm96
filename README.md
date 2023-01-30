@@ -10,7 +10,6 @@
 
 ## You can find me at
 - [Linkedin](https://www.linkedin.com/in/cristian-emanuel-mari%C3%B1o96/) :briefcase:
-- [Instagram](https://www.instagram.com/crist_i_an) :camera_flash:
 - [Frontend Mentor](https://www.frontendmentor.io/profile/cristianemm96) 	:desktop_computer:
 
 ## :round_pushpin: Buenos Aires, Argentina.
